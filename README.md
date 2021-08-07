@@ -1,3 +1,5 @@
+[View](https://iamkk25.github.io/social-proof/) this site.
+
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
